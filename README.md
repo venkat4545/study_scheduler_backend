@@ -1,6 +1,11 @@
 # Getting Started with Study Scheduler application
 
-Download the project from github by using 
+Download the project from github by using GitHUB links below
+
+# Frontend:
+https://github.com/venkat4545/study_scheduler_frontend
+
+#Backend
 
 # Make sure you use PHP8.1 for backend and Node18 for frontend
 
